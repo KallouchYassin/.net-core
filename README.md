@@ -1,1 +1,1 @@
-# .net-core
+# .net-coreszk
